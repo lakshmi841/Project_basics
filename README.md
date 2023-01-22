@@ -2,9 +2,9 @@
 A web application to print Hello World program.
 #
 TECHNOLOGIES AND FRAMEWORKS USED:
-React
-Javascript, html, css,python
-Django
+Framework: React, Django
+Languages: Javascript, html, css,python
+
 #
 To Test On Local Machine
 #
